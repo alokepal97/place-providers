@@ -1,0 +1,6 @@
+!.gitkeep
+.idea
+*.sublime-workspace
+*.sublime-project
+*.pyc
+.vscode
